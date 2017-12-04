@@ -1,6 +1,1 @@
-Sitemap: http://www.nc-f.org/sitemap.xml
-Sitemap: http://www.nc-f.org/news-sitemap.xml
-
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Sitemap: https://nc-f.netlify.com/sitemap.xml
