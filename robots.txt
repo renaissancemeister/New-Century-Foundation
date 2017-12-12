@@ -1,1 +1,1 @@
-Sitemap: https://nc-f.netlify.com/sitemap.xml
+Sitemap: https://archive.nc-f.org/sitemap.xml
