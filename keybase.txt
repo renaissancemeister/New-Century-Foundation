@@ -6,66 +6,47 @@ I hereby claim:
 
   * I am an admin of https://archive.nc-f.org
   * I am kmacfactor (https://keybase.io/kmacfactor) on keybase.
-  * I have a public key with fingerprint 514A 9B3D 5F9C 8564 20AE  522F 84C1 CCC5 5396 2301
+  * I have a public key ASBx-6uH4oK4rMzDe1p7lWViZLV2alNLREbwDkP8gB9k9Qo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e37dc722c6dfbd81de7d83c7fbe988bd53922ba4f11352e70b4d6f25641ea7040a",
-      "fingerprint": "514a9b3d5f9c856420ae522f84c1ccc553962301",
+      "eldest_kid": "012071fbab87e282b8acccc37b5a7b95656264b5766a534b4446f00e43fc801f64f50a",
       "host": "keybase.io",
-      "key_id": "84c1ccc553962301",
-      "kid": "0101d3c86001a68dd089dcb8424fa7f02bbd46a320a3dd0a4fc5f89b12332d295d630a",
+      "kid": "012071fbab87e282b8acccc37b5a7b95656264b5766a534b4446f00e43fc801f64f50a",
       "uid": "dac9a354430726228ce91fdf6f983119",
       "username": "kmacfactor"
     },
+    "merkle_root": {
+      "ctime": 1617037741,
+      "hash": "0888a170ec7438d6f3963239549d8d50b8edeb93dc219a7cc92255768fbd9108654aeca2d6fe48997cba6a8e101ea9c1753f18c4d3fe95df6583775c96b6fb3d",
+      "hash_meta": "e823c8538fc84eef7732e3be213cdb0752a4f7022bc1e291ff06239c000e8fb9",
+      "seqno": 19498669
+    },
     "service": {
+      "entropy": "9mNlDG3i5yyq9UrwY5dheI98",
       "hostname": "archive.nc-f.org",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1525897917,
-  "expire_in": 157680000,
-  "prev": "05ca507224c0600b84472baf7b1958ebdac0a1c56275c09c97dfdc8bae19340d",
-  "seqno": 15,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1617037760,
+  "expire_in": 504576000,
+  "prev": "8106b3f2e3d205be2c55159ad0cdeb1cc4436acd2b5fd3aa2d52fcbc83d94953",
+  "seqno": 42,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.77
-Comment: https://keybase.io/crypto
-
-yMNwAnicbVJ9TFVlGOemIFACwtJKDTywdHye855vzBXjS2lFjt1uXZDrOe9538sR
-7gf3nnvjitzLgvktTGDO2GJpStr6WCwSLC2uOENMwhKGcxWmUOBGZKzp1uwcpv/1
-/vPufZ7f83t+z+99BpcviYg1NQ9cuVh2JNVkGh7o8kVY71nP1ROySwkQufVENVq8
-UI2CvJqtWlWIXIKkAIloXoE8AJBTsKwIlIJ4RaAhj2UkCoKssLQIgCwxmKJoFiCe
-lBmFw4DlGApJPMmQEpFJYNVpRx63R3VqOi1LMZIo0wqLRSjoQEBKiAUACwykIISs
-TskBmqT0wiqX16jQxcmSF2WrLj2mP2yL8v4H/1g3SSk0FDiSpCROUBRSEBUoCwxg
-sMRjEsiywnASrTem9aQuHrJYEGUK0DRQgMgqHL2o27dIp0hQlGiWYWiSBxwAAkQi
-hRXMYVGgKUo0gF7kcUoOZGh1SBBLUHN5iIZMQo/7VYgMa41ZHmEkD6xS/SjbCbNw
-tstj1xncHpfmgq4aPVulaW5vrlGtBdwG/G0k2x4R2WTVqehu6hV+5PGqLieRS+lI
-qKkGM8UCVhB5keIzCVTnVj3IphoIlucEUj9GH+Q3LGKhxOrjAAaSuk26NwyvfyPm
-ZUpkBSTrM5MSBVkO8CwkRSjyClagIEuIEmmGVAhjtFqny+DWdUp2ndOr2p2S5vMg
-oiE8ULE0whQbERX5hLFmEbExCY+Xb6Q0/uGOgvJNSRvHZrSw9bWEB21b9h8X9k+H
-tscmL2FT2kcKf5qPHc0NXucd1Iasr1+uLns2cLkhUQgE44qI4rqh6Jtx2idx76+p
-TPNBNrF52J/xc7fZvn5d7ZsB8W9LwUR30YOek6uPIDw3dJdrzot/If3emVF8cF9o
-7FKOZ/rCbzlNe+m7lV7nbEXcH73bbJ8fPxTK8Wc9bAyM7iK3zm9pLOmJnHjr+cyu
-8g9cU20zZ59bXkuNNJ1N7IMn8k05y7q9kmVva0fSZ7uv3Lia0TsfA2L6I1Y8SVhO
-l685f2nhIJzNCAY7im6dibpzy/rG96eb//q1Ze1UcEd/ZXzN4LHasrTCU1k3ud7L
-uOvpPdtfwqPJJXvaf99WGs6Psvas3LXz9jOHCurfw79UHJ573doU3UK2he4Uzzom
-z7nK56vI66mtwtZrZtWdfCNl2J6a3oqnVzvyTlVcHBwwrx1f2FfzZ1rGibEXhyyF
-pSWr6joTV2V3tic5Njdtjj7/Q+OPT30ctggN/fTGd25/NXmSWT8SIw+Fc1C69g2d
-98VMaMG57J+PNth3Hpuikpn735mriy1L6yNb75t9DOswz5nqPp3waUdHSiqqTWNN
-fbg35N1dOLkX8Ovy+/rfDVnHwwf6e/quicFNH+ZV4YQx9yv/Hg24F+aF3o6r33Zm
-rTBRr1oufJlyYLxl5cJ/w7C2/Q==
-=pdrm
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcfurh+KCuKzMw3tae5VlYmS1dmpTS0RG8A5D/IAfZPUKp3BheWxvYWTESpcCKsQggQaz8uPSBb4sVRWa0M3rHMRDas0rX9OqLVL8vIPZSVPEIHuIb9TBCm6FM5fm9yb7xeYDzKbEok3+1R/ayaLmZhyCAgHCo3NpZ8RAn32PHwcCu31OpAvPGovkZYGiNIxqX1IZBS8wgkRoO7M7rXqctIC3ykLwNZqn28KCRJHFAXGzfHPqwVj/TEhxBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEUEFAu/HtZpbO5HfmOHrRQjZ9J44MYNTWdyFeupK5zHo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
